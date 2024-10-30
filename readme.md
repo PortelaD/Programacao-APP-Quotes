@@ -17,7 +17,7 @@ QuotesApp exibe citações motivacionais ou inspiradoras acompanhadas de uma ima
 
 1. Clone este repositório:
 ```bash
-git clone 
+git clone https://github.com/PortelaD/Programacao-APP-Quotes.git
 ```
 
 2. Instale as dependências:
