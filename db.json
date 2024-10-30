@@ -1,0 +1,22 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "author": "Albert Einstein",
+      "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "image": "einstein.png"
+    },
+    {
+      "id": 2,
+      "author": "Steve Jobs",
+      "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "image": "jobs.png"
+    },
+    {
+      "id": 3,
+      "author": "Nelson Mandela",
+      "quote": "It always seems impossible until it’s done.",
+      "image": "mandela.png"
+    }
+  ]
+}
